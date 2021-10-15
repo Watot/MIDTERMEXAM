@@ -1,0 +1,7 @@
+{
+  "name": "midtermexamination",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
